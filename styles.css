@@ -3,4 +3,6 @@ img {
 }
 body {
     font-family: "Times New Roman";
+    background-color: rgb(209, 168, 107);
+    color: black;
 }
