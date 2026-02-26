@@ -6,3 +6,9 @@ body {
     background-color: rgb(209, 168, 107);
     color: black;
 }
+h1:hover {
+    color: red;
+}
+p:hover {
+    color: blue;
+}
